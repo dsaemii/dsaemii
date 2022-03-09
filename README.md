@@ -19,7 +19,7 @@ I am a CS student from Zurich! 🇨🇭
 <br>
 <br>
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=forthe-badge&logo=linkedin&logoColor=white" />] (https://www.linkedin.com/in/samira-stragiotti-090a21174/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=forthe-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samira-stragiotti-090a21174/)
 <br>
 <br>
 ## Expertise
