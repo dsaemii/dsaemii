@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am a CS student from Zurich! 🇨🇭
+:switzerland:
 <br>
 <br>
 ## Get in Touch!
